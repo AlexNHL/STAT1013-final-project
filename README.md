@@ -1,27 +1,3 @@
----
-jupyter:
-  kernelspec:
-    display_name: base
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.12
-  nbformat: 4
-  nbformat_minor: 2
-  orig_nbformat: 4
-  vscode:
-    interpreter:
-      hash: 2386373fbd79fcb645db29fe981c18e4d0b05150b9614961985df00f13a5f9ae
----
-
 <div class="cell markdown">
 
 # CUHK-STAT1013: Practical Assignment Part 1: Sharing Your Idea and Data
