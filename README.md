@@ -23,20 +23,21 @@ This dataset is found at kaggle:
 
 **Sample size**: 607
 
-**Feature**: 
-\| Feature \| Description \| Data type \| 
-\| ----------- \|----------- \|----------- \|
-\| work_year \| which year the salary was paid \| int64 \| 
-\| experience_level \| experience level, such as Entry-level / Mid-level / Senior-level / Executive-level / Director \| object \|
-\| employment_type \| Part-time, Full-time, Contract, Freelance \| object \| 
-\| job_title \| what kind of data-related jobs \| object \|  
-\| salary \| total gross salary amount paid \| int64 \|
-\| salary_currency \| currency of the salary paid \| object \|
-\| salary_in_usd \| salary transferred in USD \| int64 \|
-\| employee_residence \| Employee's primary country of residence\| object \| 
-\| remote_ratio \| overall amount of work done remotely \| object \|
-\| company_location \| country of the employer's main office \| object \|
-\| company_size \| 3 categories: Small(\<50 employees), Medium(50-250 employees), Large(>250 employees) \| object \|
+**Feature**:
+    
+| Feature | Description | Data type   | 
+| ----------- | ----------- |----------- |
+| work_year | which year the salary was paid | int64 |
+| experience_level | experience level, such as Entry-level / Mid-level / Senior-level / Executive-level / Director | object |
+| employment_type | Part-time, Full-time, Contract, Freelance | object | 
+| job_title | what kind of data-related jobs | object |  
+| salary | total gross salary amount paid |  int64 |
+| salary_currency | currency of the salary paid |  object |
+| salary_in_usd | salary transferred in USD  |  int64 |
+| employee_residence | Employee's primary country of residence| object  |
+| remote_ratio | overall amount of work done remotely | object  |
+| company_location | country of the employer's main office  |  object |
+| company_size | 3 categories: Small(<50 employees), Medium(50-250 employees), Large(>250 employees) | object  |
 
 </div>
 
